@@ -2,6 +2,8 @@
 
 **`Desenvolvedor Front-End`**
 
+Ola, me chamo Marlon sou Desenvolvedor Front-End formado pela Rocketseat e neste portifólio voces vão ter acesso a meus projetos 
+
 <p align="left">
     <a href="https://github.com/Jacomel?tab=repositories&sort=stargazers">
         <img 
