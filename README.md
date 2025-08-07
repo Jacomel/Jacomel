@@ -1,8 +1,14 @@
-# 👩🏻‍💻 Marlon Jacomel
+#                                               Hi, I'm Marlon Jacomel
 
-**`Desenvolvedor Front-End`**
+                                            **`Desenvolvedor Front-End`**
 
-Ola, me chamo Marlon sou Desenvolvedor Front-End formado pela Rocketseat e neste portifólio voces vão ter acesso a meus projetos 
+| Studying at Rocketseat / Continuous learning in programming.
+| Ask me about Reactjs, html, css, js, typescript...
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/marlon-jacomel-bb4b37345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Marlon Jacomel" height="30" width="40" /></a>
+</p>
 
 <p align="left">
     <a href="https://github.com/Jacomel?tab=repositories&sort=stargazers">
@@ -72,6 +78,14 @@ Ola, me chamo Marlon sou Desenvolvedor Front-End formado pela Rocketseat e neste
     width="30px" 
     style="padding-right: 10px;" 
     src= "https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"
+/>
+<img 
+    align="left" 
+    alt="Node.js"
+    title="Node.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src= "https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor"
 />
 
 <br/>
