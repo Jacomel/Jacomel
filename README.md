@@ -3,7 +3,8 @@
                                             **`Desenvolvedor Front-End`**
 
 | Studying at Rocketseat / Continuous learning in programming.
-| Ask me about Reactjs, html, css, js, typescript...
+
+- | Ask me about Reactjs, html, css, js, typescript...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
