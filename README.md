@@ -1,9 +1,9 @@
-#                                               Hi, I'm Marlon Jacomel
+<h1 align="center">Hi, I'm Marlon Jacomel</h1>
 
-                                            **`Desenvolvedor Front-End`**
+<h1 align="center">**`Desenvolvedor Front-End`**</h1>
 
-- Studying at Rocketseat / Continuous learning in programming.
-- Ask me about Reactjs, html, css, js, typescript...
+- Studying at **Rocketseat** / Continuous learning in programming.
+- Ask me about **Reactjs, html, css, js, typescript...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
