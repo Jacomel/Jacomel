@@ -2,7 +2,7 @@
 
 **<h1 align="center">`Desenvolvedor Front-End`</h1>**
 
-- Studying at **Rocketseat** / Continuous learning in programming.
+- Cursando na **Rocketseat** / Estudando na Campo Real Irati, Engenharia de Software / Continuous learning in programming.
 - Ask me about **Reactjs, html, css, js, typescript...**
 
 <h3 align="left">Connect with me:</h3>
